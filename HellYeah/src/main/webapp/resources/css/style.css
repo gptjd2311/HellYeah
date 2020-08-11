@@ -1,0 +1,45 @@
+@import url("font-awesome.min.css");
+
+@import
+	url("http://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900")
+	;
+
+@import url(font-awesome.min.css);
+
+@import "https://fonts.googleapis.com/css?family=Raleway:100,300,600";
+
+Basic 
+
+
+/* css 목차 
+1. project all 
+2. header, body, footer 
+3. header - menu detail 
+4. body - three menu 
+	4-1. board bar
+	4-2. main bar / login bar
+	4-3. myrutin bar
+5. footer 
+
+6. button / submit 
+7. a teg css
+8. 
+
+*/
+
+.homepage{
+	width: 100%;
+}
+.header{
+	width : 90%;
+}
+
+.body{
+	width : 90%;
+}
+
+.footer{
+	width : 90%;
+}
+
+
